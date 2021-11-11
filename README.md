@@ -4,4 +4,3 @@
 *Safe Args
 *Room Database
 
-I quoted from @atilsamancioglu
